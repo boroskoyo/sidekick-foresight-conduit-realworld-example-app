@@ -25,5 +25,9 @@
   ],
   "devDependencies": {
     "concurrently": "^7.3.0"
+  },
+  "dependencies": {
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
   }
 }
